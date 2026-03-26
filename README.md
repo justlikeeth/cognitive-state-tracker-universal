@@ -39,7 +39,8 @@ v2.0.0 First Universal Release
 - Supports dynamic response adaptation and proactive burnout warning mechanisms
 - 
 本skill为“反skill”，是一个AI和人认知攀爬辅助系统。
-使用方法是将每日日记/工作日志最主要是包含了思维链条对内容发给认知伙伴，记录每日思维十维坐标系保存并在每次生成时读取坐标系变化，即认知轨迹。
+使用方法是将每日日记/工作日志最主要是包含了思维链条对内容发给认知伙伴，
+记录每日思维十维坐标系保存并在每次生成时读取坐标系变化，即认知轨迹。
 来自一个不懂代码的实体店老板
 v2.0.0 首次发布通用版
 - 基于小施掌柜3个月实战调试的v1.1.0架构
